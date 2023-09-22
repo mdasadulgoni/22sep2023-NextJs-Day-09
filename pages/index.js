@@ -16,7 +16,7 @@ import A from '../components/A';
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <A name="Anil" mag="OKLABS" sir=" Sir : Check my Code"></A>
+      <A name="Anil" mag="OKLABS" ></A>
      
     </div>
   )
